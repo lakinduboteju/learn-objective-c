@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		574F445C281E968800515FD1 /* learn-objective-c */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "learn-objective-c"; sourceTree = BUILT_PRODUCTS_DIR; };
 		574F445F281E968800515FD1 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		574F446628211D4E00515FD1 /* MyClass.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MyClass.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				574F445F281E968800515FD1 /* main.m */,
+				574F446628211D4E00515FD1 /* MyClass.h */,
 			);
 			path = "learn-objective-c";
 			sourceTree = "<group>";
